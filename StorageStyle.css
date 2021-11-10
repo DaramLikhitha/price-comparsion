@@ -1,0 +1,37 @@
+body {
+  background-image: url('mp image.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+h1{
+	color : #f56f5b;
+}
+
+.btn1{
+color : red;
+text-align : center ;
+height : 25px;
+margin : 10px 0;
+margin-left : 70%;
+padding : 3px 6px;
+border-left : 2px solid white;
+border-top : 2px solid while;
+border-bottom : 2px solid black;
+border-right : 2px solid black;
+border-radius: 8px;
+}
+
+.btn2,.btn3,.btn4,.btn5{
+color : red;
+text-align : center ;
+height : 25px;
+margin : 10px 0;
+padding : 3px 6px;
+border-left : 2px solid white;
+border-top : 2px solid while;
+border-bottom : 2px solid black;
+border-right : 2px solid black;
+border-radius: 8px;
+}
