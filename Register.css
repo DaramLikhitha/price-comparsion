@@ -10,8 +10,8 @@ h2{
 }
 
 form {
-	position : center;
-	margin-top : 50px;
+	position : fixed;
+	margin-top : 8%;
 	margin-left : 33%;
 	margin-right : 33%;
 	margin-bottom : 50px;
